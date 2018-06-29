@@ -10,8 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            //Some changes in local.
-            //Some changes in git Hub
+            //some Feature Added in Feature Branch
         }
     }
 }
